@@ -35,7 +35,7 @@ The main purpose of this project is to predict with the help of a machine learni
 
  **Run the Code:**
    Run the project file `Proj_10_DTC_Purchase_Dataset.py`:
-   ```bash
+   
    python Proj_10_DTC_Purchase_Dataset.py
    ```
 
